@@ -2,7 +2,7 @@
 
 _My mini-project by self-learning ( based on a 1.5-month learning duration )._
 
-_This projects demonstrate my skills in Python programming, problem-solving, and data handling._
+_This project demonstrates my skills in Python programming, problem-solving, and data handling._
 
 ## *Projects:*
 
@@ -11,10 +11,10 @@ _This projects demonstrate my skills in Python programming, problem-solving, and
 
 ## *Description of files:*
 ### ATM_machine.py 
-  * which is the **_ATM machine Simulation.__*
+  * Which is the **_ATM machine Simulation.__*
 
 ### Back_Office_Operation.py 
-  * which is a Simulation of the back office operation of an imaginary Banking Enterprise.
+  * This is a Simulation of the back office operation of an imaginary Banking Enterprise.
 
 ### BO_credentials.json
   * Contains credentials for **_Master Control access._**
@@ -64,8 +64,8 @@ _This projects demonstrate my skills in Python programming, problem-solving, and
 
 
 
-Contact:
+### **Contact:**
 
-[Ashok Kumar]
-[ashokdr.paul@gmail.com]
+**_Ashok Kumar_**
+ ashokdr.paul@gmail.com
 
