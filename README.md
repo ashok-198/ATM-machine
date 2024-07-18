@@ -1,20 +1,38 @@
 # **ATM-machine & Back Office Operation**
 
-my personal project is based on self-learning ( based on a 1.5-month learning duration )
-
+_My mini-project by self-learning ( based on a 1.5-month learning duration )._
+_These projects demonstrate my skills in Python programming, problem-solving, and data handling._
 
 ## *Projects:*
 
 1. ATM Machine
 2. Back Office Operation
 
-## *Description:*
+## *Description of files:*
+### ATM_machine.py 
+  * which is the **_ATM machine Simulation.__*
 
-These projects demonstrate my skills in Python programming, problem-solving, and data handling.
+### Back_Office_Operation.py 
+  * which is a Simulation of the back office operation of an imaginary Banking Enterprise.
 
-Run ATM_machine.py which is the ATM machine Simulation.
+### BO_credentials.json
+  * Contains credentials for **_Master Control access._**
+    
+### admin_data.json
+  * Contains credentials for **_Admin Dashboard._**
+    
+### client_data.json
+  * Contains data of all the clients which is **_Client ID, Name, PIN, wrong PIN limit, available balance, minimum limit, and maximum limit._**
+    
+### machine_data.json
+  * Contains machine data of **_Machine ID, machine available balance, machine status, and cash denomination_**.
+    
+### transaction_book.json
+  * contains the last 5 transactions of all the clients.
 
-Run Back_Office_Operation.py which is a Simulation of the back office operation of an imaginary Banking Enterprise.
+
+## *Main:*
+  * Run **_ATM machine.py._** for the ATM Machine simulation
 
 ## *ATM Machine (Machine_operation.py):*
 
