@@ -1,7 +1,8 @@
 # **ATM-machine & Back Office Operation**
 
 _My mini-project by self-learning ( based on a 1.5-month learning duration )._
-_These projects demonstrate my skills in Python programming, problem-solving, and data handling._
+
+_This projects demonstrate my skills in Python programming, problem-solving, and data handling._
 
 ## *Projects:*
 
@@ -32,7 +33,9 @@ _These projects demonstrate my skills in Python programming, problem-solving, an
 
 
 ## *Main:*
-  * Run **_ATM machine.py._** for the ATM Machine simulation
+  * Run **_ATM machine.py._** for the ATM Machine simulation.
+    
+  * Run **_Back_Office_Operation.py_** for the back office operation.
 
 ## *ATM Machine (Machine_operation.py):*
 
