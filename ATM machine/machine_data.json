@@ -1,0 +1,14 @@
+[
+    {
+        "machine_id": "m_01",
+        "machine_status": "Running",
+        "machine_available_balance": 250000
+    },
+    {
+        "cash_denomination": {
+            "500": 250,
+            "200": 416,
+            "100": 418
+        }
+    }
+]
