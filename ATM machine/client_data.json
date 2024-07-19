@@ -1,0 +1,59 @@
+{
+    "admin": {},
+    "01": {
+        "client_name": "raghul",
+        "wrong_PIN_limit": 5,
+        "client_PIN": 1111,
+        "client_available_balance": 1707600,
+        "min_limit": 100,
+        "max_limit": 50000
+    },
+    "c_02": {
+        "client_name": "siyamala devi",
+        "wrong_PIN_limit": 5,
+        "client_PIN": 2222,
+        "client_available_balance": 42400,
+        "min_limit": 100,
+        "max_limit": 50000
+    },
+    "c_03": {
+        "client_name": "balu",
+        "wrong_PIN_limit": 5,
+        "client_PIN": 3333,
+        "client_available_balance": 20000,
+        "min_limit": 100,
+        "max_limit": 50000
+    },
+    "c_04": {
+        "client_name": "sumathi",
+        "wrong_PIN_limit": 5,
+        "client_PIN": 4444,
+        "client_available_balance": 24500,
+        "min_limit": 100,
+        "max_limit": 50000
+    },
+    "c_05": {
+        "client_name": "vicki",
+        "wrong_PIN_limit": 5,
+        "client_PIN": 5555,
+        "client_available_balance": 100,
+        "min_limit": 100,
+        "max_limit": 50000
+    },
+    "c_06": {
+        "client_name": "selvam",
+        "wrong_PIN_limit": 5,
+        "client_PIN": 6666,
+        "client_available_balance": 100000,
+        "min_limit": 100,
+        "max_limit": 50000
+    },
+    "c_07": {
+        "client_name": "kumar",
+        "wrong_PIN_limit": 5,
+        "client_PIN": 7777,
+        "client_available_balance": 500000,
+        "min_limit": 100,
+        "max_limit": 50000
+    }
+}
