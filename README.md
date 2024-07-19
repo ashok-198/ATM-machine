@@ -18,13 +18,30 @@ _This project demonstrates my skills in Python programming, problem-solving, and
 
 ### BO_credentials.json
   * Contains credentials for **_Master Control access._**
+  * Data in the file are as below
+    | Master Access ID | Key | Override Key |
+    |------------------|-----|--------------|
+    | 1                | 9   | 9            |
     
 ### admin_data.json
-  * Contains credentials for **_Admin Dashboard._**
+  * Contains credentials for **_Admin Dashboard access._**
+  * Data in the file are as below
+    | Admin ID | Key |
+    |----------|-----|
+    | ashok    | 91  |
+    | kumar    | 92  |
+    | 01       | 11  |
+    | 1        | 1   |
     
 ### client_data.json
   * Contains data of all the clients which is **_Client ID, Name, PIN, wrong PIN limit, available balance, minimum limit, and maximum limit._**
-    
+  * An example overview of the data in this .JSON file is below
+    | Client ID | Client Name      | Wrong PIN Limit | Client PIN | Client Available Balance | Min Limit | Max Limit |
+    |-----------|------------------|-----------------|------------|--------------------------|-----------|-----------|
+    | 01        | raghul           | 5               | 1111       | 1,707,600                | 100       | 50,000    |
+    | c_02      | siyamala devi    | 5               | 2222       | 42,400                   | 100       | 50,000    |
+    | c_03      | balu             | 5               | 3333       | 20,000                   | 100       | 50,000    |
+
 ### machine_data.json
   * Contains machine data of **_Machine ID, machine available balance, machine status, and cash denomination_**.
     
