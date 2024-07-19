@@ -77,7 +77,20 @@ _This project demonstrates my skills in Python programming, problem-solving, and
 
 ### machine_data.json
 > * Contains machine data of **_Machine ID, machine available balance, machine status, and cash denomination_**.
-    
+> * An example overview of the data in this .JSON file is below
+
+| Machine ID | Machine Status | Machine Available Balance |
+|------------|----------------|---------------------------|
+| m_01       | Running        | 300,000                   |
+
+**Cash Denomination**
+
+| Denomination | Count |
+|--------------|-------|
+| 500          | 300   |
+| 200          | 500   |
+| 100          | 500   |
+
 ### transaction_book.json
 > * contains the last 5 transactions of all the clients.
 
