@@ -6,6 +6,12 @@ _My mini-project by self-learning ( based on a 1.5-month learning duration )._
 _This project demonstrates my skills in Python programming, problem-solving, and data handling._
 
 
+--------------------------------------------------------------------------------------
+
+### **Contact:** 
+
+>  **_Ashok_** | [G-Mail](ashokdr.paul@gmail.com) | [Telegram](@Kum_1) 
+
 -----------------------------------------------------------------------------------------------------------------------
 
 
@@ -111,10 +117,5 @@ _This project demonstrates my skills in Python programming, problem-solving, and
 1. Clone the repository
 2. Run the Python scripts using a Python interpreter
 
---------------------------------------------------------------------------------------
 
-### **Contact:**
-
-> **_Ashok Kumar_**
-> ashokdr.paul@gmail.com
 
