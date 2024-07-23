@@ -10,7 +10,7 @@ _This project demonstrates my skills in Python programming, problem-solving, and
 
 ### **Contact:** 
 
->  **_Ashok_** | [G-Mail](ashokdr.paul@gmail.com)
+>  **_Ashok_** | [G-Mail](ashokdr.paul@gmail.com) | [Telegram](https://t.me/Kum_1)
 
 -----------------------------------------------------------------------------------------------------------------------
 
