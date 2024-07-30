@@ -26,13 +26,15 @@ _This project demonstrates my skills in Python programming, problem-solving, and
 >>   
 >>  * Run **_Back_Office_Operation.py_** for the back office operation.
 
+-----------------------------------------------------------------------------------------------------------------------
 
-## *ATM Machine (Machine_operation.py):*
+ ## *ATM Machine (Machine_operation.py):*
 
  - Simulates an ATM machine using Python
  - Utilizes Object-Oriented Programming (OOP) concepts
  - Handles user input and output
  - Demonstrates error handling and debugging
+
 
 ## *Back Office Operation (Back_Office_Operation.py):*
 
@@ -43,9 +45,10 @@ _This project demonstrates my skills in Python programming, problem-solving, and
 
 
 --------------------------------------------------------------------------------------
+<details>
 
+<summary> <h3><b>Description of files (click here) </b></h3> </summary>
 
-## *Description of files:*
 ### ATM_machine.py 
   * Which is the **_ATM machine Simulation.__*
 
@@ -57,7 +60,7 @@ _This project demonstrates my skills in Python programming, problem-solving, and
 > * Data in the file are as below
 
    | Master Access ID | Key | Override Key |
-   |------------------|-----|--------------|
+   |:----------------:|-----|--------------|
    | 1                | 9   | 9            |
     
 ### admin_data.json
@@ -76,7 +79,7 @@ _This project demonstrates my skills in Python programming, problem-solving, and
 > * An example overview of the data in this .JSON file is below
 
  | Client ID | Client Name      | Wrong PIN Limit | Client PIN | Client Available Balance | Min Limit | Max Limit |
- |-----------|------------------|-----------------|------------|--------------------------|-----------|-----------|
+ |:---------:|------------------|-----------------|------------|--------------------------|-----------|-----------|
  | 01        | raghul           | 5               | 1111       | 1,707,600                | 100       | 50,000    |
  | c_02      | siyamala devi    | 5               | 2222       | 42,400                   | 100       | 50,000    |
  | c_03      | balu             | 5               | 3333       | 20,000                   | 100       | 50,000    |
@@ -86,7 +89,7 @@ _This project demonstrates my skills in Python programming, problem-solving, and
 > * An example overview of the data in this .JSON file is below
 
 | Machine ID | Machine Status | Machine Available Balance |
-|------------|----------------|---------------------------|
+|:----------:|----------------|---------------------------|
 | m_01       | Running        | 300,000                   |
 
 **Cash Denomination**
@@ -100,6 +103,7 @@ _This project demonstrates my skills in Python programming, problem-solving, and
 ### transaction_book.json
 > * contains the last 5 transactions of all the clients.
 
+</details>
 
 --------------------------------------------------------------------------------------
 
