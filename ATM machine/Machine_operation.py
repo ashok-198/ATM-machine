@@ -76,7 +76,7 @@ def cli_da_op(id, super_pass_1, super_pass_2, request = 'client_withdraw' ): # i
     with open('client_data.json', 'r') as file:
         client_data = load(file)
 
-    if request == 'client_withdarw':
+    if request == 'client_withdraw':
         client_data[id]["client_available_balance"] = super_pass_1
         client_data[id]["wrong_PIN_limit"] = super_pass_2
 
@@ -301,7 +301,7 @@ def denomination_func(amount):
     if cash_500 >= count_for_500 and cash_200 >= count_for_200 and cash_100 >= count_for_100:
         machine_cash = (cash_500 - count_for_500), (cash_200 - count_for_200), (cash_100 - count_for_100)
         denomination_count = count_for_500, count_for_200, count_for_100
-        print(denomination_count)
+        
         return [ True,  machine_cash, denomination_count ]
 
     else:
