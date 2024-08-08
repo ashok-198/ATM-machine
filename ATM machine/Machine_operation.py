@@ -514,6 +514,9 @@ def transactions_entry(id, amount, reciver= None, call_from = 'client_deposit'):
         mini_statements = load(file)
 
     current_DateTime = datetime.datetime.now().strftime("%d-%m-%Y__%H:%M:%S")
+  
+    if id not in mini_statements:
+        mini_statements[id] = []
 
     if call_from in ['client_withdraw', 'client_deposit']:
         update_statement = mini_statements[id]
